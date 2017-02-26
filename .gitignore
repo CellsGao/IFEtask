@@ -4,3 +4,7 @@ task1/.idea/workspace.xml
 task1/.idea/modules.xml
 
 task1/.idea/task1.iml
+
+*.xml
+
+*.iml
